@@ -9,3 +9,6 @@ __pycache__/
 .Python
 .pytest_cache/
 .DS_Store # macOS specific
+
+# Environment variables
+.env
